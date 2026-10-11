@@ -16,6 +16,6 @@ resources:
 
 images:
   - name: sangsana/movieapp-frontend
-    newTag: 11
+    newTag: "16
   - name: sangsana/movieapp-backend
-    newTag: 11
+    newTag: "16
